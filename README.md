@@ -1,4 +1,4 @@
-# Simply – The News, Made Simple
+# Simply – News, Made Simple
 
 Simply is a full-stack web application that fetches live news articles from NewsAPI.org, uses AI to analyze and simplify content, and displays articles in a clean, modern interface with intelligent categorization.
 
