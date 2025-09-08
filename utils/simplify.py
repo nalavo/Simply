@@ -1,0 +1,1 @@
+# Simplification logic using OpenAI

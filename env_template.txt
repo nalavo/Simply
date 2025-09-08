@@ -1,0 +1,14 @@
+# OpenAI API Key (required for GPT models)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Anthropic API Key (optional, for Claude Haiku - fastest model)
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+
+# Preferred AI Model (optional, defaults to gpt-4o-mini)
+# Options: gpt-4o-mini, gpt-4o, gpt-3.5-turbo, claude-haiku
+PREFERRED_MODEL=gpt-4o-mini
+
+# Secret Key for Flask
+SECRET_KEY=your_secret_key_here
+
+
